@@ -1,7 +1,4 @@
-
-streamlit
-requests
 fastapi
 uvicorn
-pydantic
+pydanticgit add backend/requirements.txt frontend/requirements.txt vercel.json
 openai
